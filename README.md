@@ -2,7 +2,7 @@
 <h2 align="center">Soy FireBoss, te doy la bienvenida a mi GitHub</h2>
 <h3 align="center">Soy un ingeniero en ciberseguridad dedicado y entusiasta.</h3>
 <h3>Mi objetivo es aprender y adquirir experiencia práctica en seguridad de la información y protección de datos. Aunque aún no tengo experiencia profesional, he invertido tiempo en el estudio de las siguientes áreas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> 
 </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
