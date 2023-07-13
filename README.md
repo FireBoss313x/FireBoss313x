@@ -27,4 +27,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/harold-q-35bb7b213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fire-b-35bb7b213" height="30" width="40" /></a>
 </p>
-<h5 align="center">¡Estoy emocionado de conectar con profesionales en el campo y explorar oportunidades para crecer juntos en el mundo de la ciberseguridad!</h5>
+<h3 align="center">¡Estoy emocionado de conectar con profesionales en el campo y explorar oportunidades para crecer juntos en el mundo de la ciberseguridad!</h3>
